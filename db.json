@@ -25,7 +25,8 @@
     "id": 4,
     "name": "Racing Cycle",
     "image_url": "https://wallpaperplay.com/walls/full/8/6/2/60358.jpg",
-    "price": "34"
+    "price": "34",
+    "item_count": 1
   },
   {
     "id": 5,
